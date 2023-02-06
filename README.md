@@ -26,4 +26,4 @@ Some projects I intend to add are:
 
 * A terminal user interface program 
 
-## <div align="center">If you'd like to see more from me, [check out my site](https://lstratta.github.io/portfolio) that covers articles I write, and more aboout me, my work, and my skillset.</div>
+## <div align="center">If you'd like to see more from me, [check out my site](https://lstratta.github.io) that covers articles I write, and more aboout me, my work, and my skillset.</div>
