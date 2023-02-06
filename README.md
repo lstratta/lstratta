@@ -1,4 +1,4 @@
-## <div align="center">Luke Stratta: Backend Kotlin Engineer</div>
+## <div align="center">Luke Stratta: Kotlin/Spring Boot Engineer</div>
 
 ### What sound does a giant make when he laughs? _A-low-ha_... and welcome to my GitHub!
 
