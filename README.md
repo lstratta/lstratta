@@ -35,15 +35,15 @@ Some tools I enjoy working with are:
 
 Some projects that might interest you are:
 
-### <div align="center">[>>Kotlin Testing<<](https://github.com/lstratta/kotlin-testing)</div>
+### <div align="center">[>> Kotlin Testing <<](https://github.com/lstratta/kotlin-testing)</div>
 
 This is the place I go where I need to try out anything to do with Kotlin. While I learn a lot of the stuff in my day-to-day work, if I need a simple Kotlin API environment to tear to pieces while trying to figure something out, this is the project for that.
 
-### <div align="center">[>>Getting Started With Go<<](https://github.com/lstratta/getting-started-with-go)</div>
+### <div align="center">[>> Getting Started With Go <<](https://github.com/lstratta/getting-started-with-go)</div>
     
 A project I put together for myself to learn different concepts within Go. Some of these concepts include Domain Driven Design, creating servers with Go, and connecting a Go API to MongoDB. I also added in a cheat sheet for specific Go concepts. I plan to add more as I use Go more.
 
-### <div align="center">[>>GoLang Simple HTTP API<<](https://github.com/lstratta/golang-simple-http-api)    </div>
+### <div align="center">[>> GoLang Simple HTTP API <<](https://github.com/lstratta/golang-simple-http-api)    </div>
     
 I also built an API to learn the basics of building an API in Go. This API connects to a MongoDB database and handles posts and comments. (I#'ll add something more exciting when I get to it.)
 
