@@ -1,6 +1,6 @@
 # <div align="center">Luke Stratta: Kotlin/Spring Boot Engineer</div>
 
-### What sound does a giant make when he laughs? _A-low-ha_... and welcome to my GitHub!
+## What sound does a giant make when he laughs? _A-low-ha_... and welcome to my GitHub!
 
 I am a software engineer currently working for [Digital Futures](https://www.digitalfutures.com) and about to move to the Netherlands. I am mostly working on building and designing APIs in Kotlin/Spring Boot.
 
