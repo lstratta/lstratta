@@ -54,4 +54,6 @@ Some projects I intend to add are:
 * A terminal user interface program 
 
 
-### <div align="center">If you'd like to see more from me, [check out my site](https://lstratta.github.io) that covers articles I write, and more about me, my work, and my skillset.</div>
+### If you'd like to see more from me, [check out my site](https://lstratta.github.io) that covers articles I write, and more about me, my work, and my skillset.
+
+You can see the source code for my [blogging site here](https://github.com/lstratta.github.io}
