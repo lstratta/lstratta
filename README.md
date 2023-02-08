@@ -56,4 +56,4 @@ Some projects I intend to add are:
 
 ### If you'd like to see more from me, [check out my site](https://lstratta.github.io) that covers articles I write, and more about me, my work, and my skillset.
 
-You can see the source code for my [blogging site here](https://github.com/lstratta.github.io}
+You can see the source code for my [blogging site here](https://github.com/lstratta.github.io)
